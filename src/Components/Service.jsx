@@ -158,16 +158,16 @@ export default function Service() {
           </ul>
 
           <div className="social-icons">
-            <a href="https://www.linkedin.com/in/anuj-rajput-7279b81b9/" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/in/khushisaini23/" target="_blank" rel="noopener noreferrer">
               <FaLinkedin style={{ fontSize: '2rem', color: '#0077B5' }} />
             </a>
-            <a href="https://github.com/anuj6397" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/KhushiSaini23" target="_blank" rel="noopener noreferrer">
               <FaGithub style={{ fontSize: '2rem', color: '#000' }} />
             </a>
-            <a href="https://www.instagram.com/__anujrajput_6397/" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.instagram.com/i.khushisaini" target="_blank" rel="noopener noreferrer">
               <FaInstagram style={{ fontSize: '2rem', color: '#E1306C' }} />
             </a>
-            <a href="mailto:anujk702441@gmail.com" target="_blank">
+            <a href="mailto:khushisaini2317@gmail.com" target="_blank">
               <MdEmail style={{ fontSize: '2rem', color: 'green' }} />
             </a>
           </div>
